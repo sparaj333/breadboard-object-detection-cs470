@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/CS470/task3_saved/breadboard_yolo11s_old_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Board
+  1: Light/Diode
+  2: arduino
+  3: resistor
+  4: wire

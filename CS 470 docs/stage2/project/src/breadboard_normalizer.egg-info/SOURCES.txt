@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/breadboard_normalizer/__init__.py
+src/breadboard_normalizer/normalizer.py
+src/breadboard_normalizer.egg-info/PKG-INFO
+src/breadboard_normalizer.egg-info/SOURCES.txt
+src/breadboard_normalizer.egg-info/dependency_links.txt
+src/breadboard_normalizer.egg-info/requires.txt
+src/breadboard_normalizer.egg-info/top_level.txt
+src/breadboard_normalizer/vendor/__init__.py
+src/breadboard_normalizer/vendor/icp/__init__.py
+src/breadboard_normalizer/vendor/icp/icp.py
+src/breadboard_normalizer/vendor/icp/test.py
